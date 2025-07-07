@@ -3,7 +3,7 @@
 This beginner-friendly machine learning project uses **linear regression** to predict a student's **Cumulative GPA (CGPA)** based on their **Previous Semester Result**.  
 It is part of a learning path inspired by the [Microsoft Learn: Introduction to Machine Learning](https://learn.microsoft.com/training/).
 
----
+
 
 ## 📊 Dataset Description
 
@@ -17,7 +17,7 @@ For simplicity, this project uses only two columns:
 🔗 **Dataset Source:**  
 [https://www.kaggle.com/datasets/sahilislam007/college-student-placement-factors-dataset](https://www.kaggle.com/datasets/sahilislam007/college-student-placement-factors-dataset)
 
----
+
 
 ## 🔧 Modeling Approach
 
@@ -30,7 +30,7 @@ We trained an **Ordinary Least Squares (OLS)** linear regression model using the
 4. Plot the data and the regression line
 5. Predict CGPA for test data and compare to actual values
 
----
+
 
 ## 📈 Sample Results
 
@@ -42,7 +42,7 @@ We trained an **Ordinary Least Squares (OLS)** linear regression model using the
 | 8.77            | 8.92        | 8.76           |
 | 9.41            | 9.77        | 9.40           |
 
----
+
 
 ## 📉 Visualization
 
@@ -50,9 +50,7 @@ The scatter plot below shows the data points along with the fitted regression li
 
 ![Regression Plot](images/regression_plot.png)
 
-*(Make sure you save your plot as `regression_plot.png` in an `images` folder inside your project directory)*
 
----
 
 ## 🚀 How to Run
 
